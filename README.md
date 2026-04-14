@@ -16,4 +16,4 @@
 15. git push origin test-branch <br>
 16. git remote set-url origin https://hsharikesh1@github.com/hsharikesh1/github-crash-course.git <br>
 17.git checkout -b feat-section <br>
-18. git clone <url of git code>
+18. git clone <url of git code> <br>
